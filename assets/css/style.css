@@ -1,15 +1,25 @@
-.star-container{
+.star-container {
     width: 50vw;
     display: flex;
     justify-content: space-evenly;
     flex-wrap: nowrap;
 }
 
-.star-rating{
+.star-rating {
     height: 100px;
     width: 100px;
-    border: 1px solid black;
-    background-size: contain;
     background-color: white;
     transition: background-color .2s ease-in-out;
+    background-image: url("../images/staroff.svg");
+    background-size: contain;    
+}
+
+.hoverimg{
+    background-image: url("../images/staron.svg");
+    background-size: contain;
+}
+
+.starON {
+    background-image: url("../images/staron.svg");
+    background-size: contain;
 }
