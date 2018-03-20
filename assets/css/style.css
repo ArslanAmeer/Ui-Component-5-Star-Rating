@@ -1,5 +1,6 @@
 .star-container {
     width: 50vw;
+    margin: auto;
     display: flex;
     justify-content: space-evenly;
     flex-wrap: nowrap;
