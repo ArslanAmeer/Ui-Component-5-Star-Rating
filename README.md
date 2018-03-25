@@ -1,7 +1,7 @@
 # Ui-Component-5-Star-Rating
 ## 5-Star Rating UI Component made with JS HTML5 &amp; Css.
 
-![](assets/images/rating-demo.png)
+![](assets/images/rating-demo.gif)
 ----------------------------------------------------------------
 ** TRY IT NOW: [5-Star Rating](https://arslanameer.github.io/Ui-Component-5-Star-Rating/)
 
