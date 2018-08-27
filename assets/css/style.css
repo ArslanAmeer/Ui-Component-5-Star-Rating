@@ -1,5 +1,5 @@
 .star-container {
-    width: 50vw;
+    width: 350px;
     margin: auto;
     display: flex;
     justify-content: space-evenly;
@@ -7,19 +7,22 @@
 }
 
 .star-rating {
-    height: 100px;
+    height: 50px;
     width: 100px;
     transition: background-color .2s ease-in-out;
     background-image: url("../images/staroff.svg");
+    background-repeat: no-repeat;
     background-size: contain;    
 }
 
 .hoverimg{
     background-image: url("../images/staron.svg");
+    background-repeat: no-repeat;
     background-size: contain;
 }
 
 .starON {
     background-image: url("../images/staron.svg");
+    background-repeat: no-repeat;
     background-size: contain;
 }
